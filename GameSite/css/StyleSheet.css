@@ -1,0 +1,14 @@
+﻿body {
+    background-color:lightblue;
+    text-align:center;
+    margin: 0;
+}
+
+.table-container {
+    display: flex
+}
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    flex: 1;
+}
